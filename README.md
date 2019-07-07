@@ -2,7 +2,7 @@
 ---
 https://github.com/jaredreich/notie
 
-```
+```sh
 npm install notie
 ```
 
